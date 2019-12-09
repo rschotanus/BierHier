@@ -1,0 +1,62 @@
+div#wrapper, footer{
+    margin:auto;
+    width:1000px;
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+nav{
+    background-color: grey;
+    margin-top: 25px;
+}
+
+nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    color:white;
+}
+
+body{
+    font-family:"Arial" , "sans-serif";
+}
+
+article{
+    display:inline-block;
+    width: 32%;
+    padding-right: 15px;
+    text-align: justify;
+    line-height: 1.5;
+    vertical-align: top;
+}
+
+article:last-child {
+    padding-right: 0px
+}
+
+img.article{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+h1.title{
+    font-size: 50px;
+    margin-top: 25px;
+}
+
+h1.Stage{
+    margin-top: 5px;
+    font-size: 25px;
+    float: right;
+    margin-right: 60px;
+}
+
+footer{
+    background-color:grey;
+    height:115px;
+    color: white;
+}
+
+footer a{
+    color: white;
+}
+

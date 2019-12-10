@@ -1,12 +1,17 @@
 div#wrapper, footer{
     margin:auto;
-    width:1200px;
+    width:1000px;
     padding: 20px;
     background-color: lightgrey;
 }
 footer{
     background-color: darkgray;
+    color: white;
 
+}
+
+footer a{
+    color: white;
 }
 
 nav {

@@ -62,7 +62,10 @@ footer a{
 
 article.contact{
     float: right;
-    margin-right: 75px;
+    margin-right:50px;
+    font-size: 100%;
+    margin-top: 20px;
+
 }
 
 article.recepten{
@@ -115,6 +118,12 @@ section.text{
 
 section.links{
     margin-top: 25px;
+}
+
+section.google{
+    float: left;
+    margin-top: 20px;
+    vertical-align: auto;
 }
 
 

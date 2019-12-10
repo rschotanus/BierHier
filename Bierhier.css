@@ -60,3 +60,61 @@ footer a{
     color: white;
 }
 
+article.contact{
+    float: right;
+    margin-right: 75px;
+}
+
+article.recepten{
+    margin-top: 0px;
+    width: 45%;
+}
+
+img.gerecht{
+    width: 50%;
+    float: right;
+    margin-top: 25px;
+}
+
+.column {
+    float: left;
+    width: 75%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.row {
+    display: flex;
+    padding-top: 20px;
+    padding-right: 5px;
+}
+
+.column {
+    flex: 75%;
+    padding: 15px;
+}
+
+section.img{
+    float: left;
+    margin-right: 15px;
+    margin-top: 20px;
+    width: 300px;
+    vertical-align: auto;
+}
+
+section.text{
+    margin-right:5px;
+    font-size: 75%;
+    margin-top: 20px;
+}
+
+section.links{
+    margin-top: 25px;
+}
+
+

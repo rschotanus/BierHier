@@ -1,0 +1,55 @@
+div#wrapper, footer{
+    margin:auto;
+    width:1200px;
+    padding: 20px;
+    background-color: lightgrey;
+}
+footer{
+    background-color: darkgray;
+
+}
+
+nav {
+    background-color: grey;
+    margin-top: 25px;
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+
+
+}
+section.NAVisuals, section.Text{
+    width: 40%;
+    float: left;
+    margin-top: 40px;
+}
+
+
+
+article{
+    display:inline-block;
+    width: 60%;
+    text-align: justify;
+    line-height: 1.5;
+    vertical-align: top;
+}
+section.NAText1{
+text-align:left ;
+    vertical-align: middle;
+    width: 60%;
+
+}
+
+section.NAText{
+    text-align: right;
+}
+
+
+section.title{
+    font-size: 50px;
+    margin-top: 25px;
+}
+

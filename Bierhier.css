@@ -126,4 +126,23 @@ section.google{
     vertical-align: auto;
 }
 
+img.front{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+ul.concert{
+    float: right;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+section.concertimg{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+footer.concert{
+    width:1000px;
+}
 

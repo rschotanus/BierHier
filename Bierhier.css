@@ -1,7 +1,6 @@
 div#wrapper, footer{
     margin:auto;
     width:1000px;
-
     padding: 20px;
     background-color: lightgrey;
 }
@@ -61,6 +60,14 @@ footer a{
     color: white;
 }
 
+article.contact{
+    float: right;
+    margin-right:50px;
+    font-size: 100%;
+    margin-top: 20px;
+
+}
+
 article.recepten{
     margin-top: 0px;
     width: 45%;
@@ -113,8 +120,41 @@ section.links{
     margin-top: 25px;
 }
 
-section.google, article.form{
+section.google{
     float: left;
     margin-top: 20px;
     vertical-align: auto;
 }
+
+img.front{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+ul.concert{
+    float: right;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+section.concertimg{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+footer.concert{
+    width:1000px;
+}
+
+div span,
+div img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div.tweederij{
+    margin-top: 20px;
+}
+
+
+

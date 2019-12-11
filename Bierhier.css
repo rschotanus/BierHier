@@ -146,3 +146,15 @@ footer.concert{
     width:1000px;
 }
 
+div span,
+div img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div.tweederij{
+    margin-top: 20px;
+}
+
+
+
